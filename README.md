@@ -1,5 +1,5 @@
-creamy.tmTheme
-==============
+Creamy
+======
 
 Sublime Text theme, soft &amp; creamy colors
 
@@ -12,7 +12,7 @@ Install
 Theme is listed as `Color Scheme - Creamy` in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
 
 ### Manual
-1. [Download creamy.tmTheme](https://github.com/joeyfigaro/glacier-theme/archive/master.zip)
+1. [Download creamy.tmTheme](https://raw.github.com/quimcalpe/sublime-creamy-theme/master/Creamy.tmTheme)
 2. Copy creamy.tmTheme file to your User folder, in MacOs `~/Library/Application Support/Sublime Text 3/Packages/User`.
 
 You can find `User` folder using the menu item `Preferences -> Browse Packages...` in Sublime Text
