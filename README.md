@@ -9,7 +9,7 @@ Install
 =======
 
 ### Via Package Control
-Theme is listed as `Color Scheme - Creamy` in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+Theme is listed as `Color Scheme - Creamy` in Will Bond's [Sublime Package Control](https://sublime.wbond.net). You can install with Creamy Color Scheme via the `Package Control: Install Package` menu item.
 
 ### Manual
 1. [Download creamy.tmTheme](https://raw.github.com/quimcalpe/sublime-creamy-theme/master/Creamy.tmTheme)
